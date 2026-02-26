@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+
     int numero1;   // Primera variable entera
     int numero2;   // Segunda variable entera
     int resultado; // Tercera variable entera donde se guardará la suma
